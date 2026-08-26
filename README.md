@@ -5,7 +5,7 @@ An interactive and professional HR Analytics Dashboard built using **Microsoft E
 ---
 
 ## 📸 Dashboard Preview
-![HR Analytics Dashboard](dashboard-screenshot.png)
+![HR Analytics Dashboard](HR%20Analytics%20Dashboard.png)
 
 ---
 
@@ -22,21 +22,5 @@ This project provides deep insights into employee attrition patterns, helping ma
 
 ---
 
-## 📊 Visualizations & Key Insights Included
-1. **Attrition Status:** Split between active employees (`No`: 70%) and departed employees (`Yes`: 30%).
-2. **Role-wise Monthly Income:** Visualizing salary distributions across various designations.
-3. **Department-wise Attrition:** Identifying departments with higher exit rates.
-4. **Gender Distribution:** Balanced workforce overview (`Male`: 50%, `Female`: 50%).
-5. **Performance & Attrition Matrix:** Evaluating performance slabs against retention.
-
----
-
 ## 🛠️ Tools & Technologies Used
 * **Microsoft Excel:** Advanced Pivot Tables, Slicers, Custom KPI Cards, Data Cleaning, and Dashboard UI Design.
-
----
-
-## 📂 Files Included
-* `HR_Employee_Attrition_Data.xlsx` (Main Excel Workbook containing raw data, pivot tables, and the dashboard)
-
----
