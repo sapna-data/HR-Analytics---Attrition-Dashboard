@@ -1,11 +1,11 @@
-# 📊 HR Employee Attrition & Analytics Dashboard
+# 📊 HR Analytics & Attrition Dashboard
 
 An interactive and professional HR Analytics Dashboard built using **Microsoft Excel** to analyze employee turnover, workforce demographics, and key performance metrics.
 
 ---
 
 ## 📸 Dashboard Preview
-![HR Analytics Dashboard](HR%20Analytics%20Dashboard.png)
+![HR Attrition Dashboard](HR%20Analytics%20Dashboard.png)
 
 ---
 
