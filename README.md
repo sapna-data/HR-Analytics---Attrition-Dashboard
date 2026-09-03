@@ -5,11 +5,6 @@ An interactive and professional HR Analytics Dashboard built using **Microsoft E
 ---
 
 ## 📸 Dashboard Preview
-### 1. HR Analytics Dashboard (Excel Version)
-![HR Attrition Dashboard](HR%20Analytics%20Dashboard.png)
-
-### 2. HR Analytics Dashboard (Power BI Version)
-![HR Dashboard](HR%20Analytics%20&%20Attrtion%2520Dashboard.png)
 
 ---
 
