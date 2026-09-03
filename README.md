@@ -6,6 +6,12 @@ An interactive and professional HR Analytics Dashboard built using **Microsoft E
 
 ## 📸 Dashboard Preview
 
+### 1. HR Dashboard (Excel Version)
+![HR Excel Dashboard](HR%20Analytics%20Excel%20Dashboard.png)
+
+### 2. HR Dashboard (Power BI Version)
+![HR PowerBI Dashboard](HR%20Analytics%20Power%20BI%20Dashboard.png)
+
 ---
 
 ## 🚀 Project Overview
